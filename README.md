@@ -9,6 +9,7 @@ In order to prevent rare crashes when loading into a match, it's recommended to 
 ## Features
 ### Better Online Play
 - Player Match lobbies and Ranked Match now use rollback versus modded players
+- Player Match lobbies with modded players now have a quick rematch option, with adjustable set length limit
 - Delay-based netcode is used as a fallback versus unmodded opponents
 - Unmodded players can spectate modded rollback matches
 - "Save replay?" prompt now has a 10-second timer which automatically selects "No" and returns to lobby, so modded players can never accidentally stall lobbies by going AFK
@@ -31,6 +32,6 @@ In order to prevent rare crashes when loading into a match, it's recommended to 
 - Hide battle HUD option
 
 ## Credits
-Thanks to [Armonté](https://github.com/Armonte) for doing much of the reverse-engineering work that was needed to implement rollback
+Thanks to [Armonté](https://github.com/Armonte) for doing much of the work that was needed to implement rollback and quick rematch
 
 Thanks to XeNO for providing info used to create the hitbox viewer
