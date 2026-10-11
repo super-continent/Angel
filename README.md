@@ -25,6 +25,7 @@ In order to prevent rare crashes when loading into a match, it's recommended to 
 - Replays are automatically converted to the new format upon launch, with a backup folder containing the original files
 - The limit of 99 replays has been removed
 - Saved replay files now have more descriptive names
+- Replays can now be configured to automatically save or be skipped
 ### Extra Training Mode Tools
 - Hitbox display
 - Pause and frame advance hotkeys
