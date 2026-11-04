@@ -18,6 +18,7 @@ In order to prevent rare crashes when loading into a match, it's recommended to 
 - Borderless fullscreen mode
 - Windowed resolutions now go past 1080p
 - Rendering now optionally uses the resolution of the game window to reduce sprite scaling artifacts
+- VSync is now optional
 ### Custom Palettes
 - Palette editor which allows overriding character/arcana palettes with custom colors
 - Custom palettes sync between players in online lobbies (opt-in)
